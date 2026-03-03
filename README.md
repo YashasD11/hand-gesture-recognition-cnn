@@ -107,34 +107,7 @@ Confusion matrix
 
 Per-class performance analysis
 
-7. Repository Structure
-hand-gesture-recognition-cnn/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-│   └── training.ipynb
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── model.py
-│   ├── train.py
-│   └── predict.py
-│
-├── models/
-│   └── best_model.h5
-│
-├── images/
-│   ├── confusion_matrix.png
-│   ├── accuracy_plot.png
-│   └── sample_predictions.png
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
-8. How to Reproduce Results
+7. How to Reproduce Results
 Clone Repository
 git clone https://github.com/YashasD11/hand-gesture-recognition-cnn.git
 cd hand-gesture-recognition-cnn
@@ -144,7 +117,7 @@ Train Model
 python src/train.py
 Run Inference
 python src/predict.py
-9. Engineering Improvements Implemented
+8. Engineering Improvements Implemented
 
 Modular code structure
 
@@ -156,7 +129,7 @@ Evaluation visualization for interpretability
 
 Reproducible training pipeline
 
-10. Future Enhancements
+9. Future Enhancements
 
 Real-time webcam-based gesture recognition
 
@@ -168,7 +141,7 @@ Model compression for edge deployment
 
 REST API deployment using FastAPI
 
-11. Key Skills Demonstrated
+10. Key Skills Demonstrated
 
 Deep Learning
 
@@ -181,9 +154,3 @@ Data Preprocessing
 Model Evaluation
 
 Python Engineering Practices
-
-12. Author
-
-Yashas
-Machine Learning Engineer (Aspiring)
-Graduating June 2026
