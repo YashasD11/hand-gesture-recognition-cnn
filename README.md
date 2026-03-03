@@ -136,7 +136,7 @@ hand-gesture-recognition-cnn/
 └── .gitignore
 8. How to Reproduce Results
 Clone Repository
-git clone https://github.com/yourusername/hand-gesture-recognition-cnn.git
+git clone https://github.com/YashasD11/hand-gesture-recognition-cnn.git
 cd hand-gesture-recognition-cnn
 Install Dependencies
 pip install -r requirements.txt
